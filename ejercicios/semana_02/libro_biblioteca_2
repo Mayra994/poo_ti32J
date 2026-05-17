@@ -5,13 +5,13 @@ class LibroBiblioteca:
     def leer(self):
         print("Leer un libro")
 
-     def imaginar(self):
+    def imaginar(self):
         print("Imaginar la situación")
 
-     def aprender(self):
+    def aprender(self):
         print("Aprender algo que te ayude")
 
-     def coleccionar(self):
+    def coleccionar(self):
         print("Ordena el libro en orden")
          
     def reflexionar(self):
