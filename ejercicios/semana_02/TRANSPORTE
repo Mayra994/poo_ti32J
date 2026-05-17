@@ -1,0 +1,27 @@
+class Transporte:
+    def __init__(self, llantas,ventanas,volante,motor,costo,accesibilidad,seguridad,capacidad,confiabilidad,mantenimiento):
+        
+        self.llantas = llantas
+        self.ventanas = ventanas
+        self.volante = volante
+        self.motor = motor
+        self.costo = costo
+        self.accesibilidad = accesibilidad
+        self.seguridad = seguridad
+        self.capacidad = capacidad
+        self.confiabilidad = confiabilidad
+        self.mantenimiento = mantenimiento
+
+
+        print(f"Llantas: {self.llantas}")
+        print(f"Las ventanas son: {self.ventanas}")
+        print(f"El volante es: {self.volante}")
+        print(f"Motor que usa: {self.motor}")
+        print(f"Costo a pasajeros: {self.costo}")
+        print(f"Accesibilidad: {self.accesibilidad}")
+        print(f"Seguridad: {self.seguridad}")
+        print(f"La capacidad es: {self.capacidad}")
+        print(f"Confiabilidad: {self.confiabilidad}")
+        print(f"Mantenimiento necesario: {self.mantenimiento}")
+
+        Autobus = Transporte("6","panoramicas","hidraulicas","diesel euro VI","12.00MXN","rampa y espacio para perro guia","boton de panico","45 pasajeros","cada ciertos minutos","verificacion ambiental semestral")
