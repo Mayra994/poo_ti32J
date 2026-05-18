@@ -1,4 +1,4 @@
-class libroBiblioteca:
+class LibroBiblioteca:
     def __init__(self,portada,pasta,cantidad_hojas,total_letras,genero,dedicatoria,autor,tipografia,personajes,editorial):
         self.portada = portada
         self.pasta = pasta
@@ -22,4 +22,4 @@ class libroBiblioteca:
         print(f"Personajes:{self.personajes}")
         print(f"Editorial:{self.editorial}")
 
-Al_final_mueren_los_dos = libroBiblioteca("portada.jpg","Blanda","352","335,00","Novela juvenil","Para los que estan perdidos","Adam Silvera","Sans-serif","Mateo Torrez Rufus Emeterio","Puck")
+al_final_mueren_los_dos = LibroBiblioteca("portada.jpg","Blanda","352","335,00","Novela juvenil","Para los que estan perdidos","Adam Silvera","Sans-serif","Mateo Torrez Rufus Emeterio","Puck")

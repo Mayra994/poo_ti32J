@@ -24,4 +24,4 @@ class Transporte:
         print(f"Confiabilidad: {self.confiabilidad}")
         print(f"Mantenimiento necesario: {self.mantenimiento}")
 
-Autobus = Transporte("6","Panoramicas","Hidraulicas","Diesel euro VI","12.00 MXN","Rampa y espacio para perro guia","Boton de panico","45 pasajeros","Cada ciertos minutos","Verificacion ambiental semestral")
+autobus = Transporte("6","Panoramicas","Hidraulicas","Diesel euro VI","12.00 MXN","Rampa y espacio para perro guia","Boton de panico","45 pasajeros","Cada ciertos minutos","Verificacion ambiental semestral")

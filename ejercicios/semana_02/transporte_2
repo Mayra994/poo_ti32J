@@ -17,9 +17,9 @@ class Transporte:
     def subirPasajeros(self):
         print("Suban y bajen con cuidado")
 
-Autobus = Transporte()
-Autobus.viajar()
-Autobus.acelerar()
-Autobus.girar()
-Autobus.encenderMotor()
-Autobus.subirPasajeros()  
+autobus = Transporte()
+autobus.viajar()
+autobus.acelerar()
+autobus.girar()
+autobus.encenderMotor()
+autobus.subirPasajeros()  
