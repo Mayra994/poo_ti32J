@@ -39,7 +39,7 @@ class Personaje:
     def disparar(self):
         print("El personaje no puede disparar")    
 
-crash_bandicoot = Personaje("Crash Bandicoot", 30, "Naranja", "1.5 metros", "Isla de Wumpa", "Rápido", 3, "Fuerte", "Pantalones cortos azules y zapatos rojos", None)
+crash_bandicoot = Personaje("Crash Bandicoot", 30, "Naranja", "1.5 metros", "Isla de Wumpa", "Muy rápido", 3, "Fuerte", "Pantalones cortos azules y zapatos rojos", None)
 crash_bandicoot.correr()
 crash_bandicoot.saltar()
 crash_bandicoot.hablar()
