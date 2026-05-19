@@ -23,4 +23,24 @@ class Universidad:
         print(f"Cantidad de salones:{self.cantidad_salones}")
         print(f"Rector:{self.rector}")
 
+    def aprender(self):
+        print("Aprende algo nuevo cada día")
+        
+    def estudia(self):
+        print("Estudia para tener un mejor futuro")
+
+    def capacitar(self):
+        print("Capacitate para ser mejor")
+
+    def educar(self):
+        print("Educa para crear mejores ciudadanos")
+
+    def contratar(self):
+        print("Contrata a los mejores profesores")
+
 unideh = Universidad("logo.jpg","Ing.Sistemas,Turismo alternativo","San Miguel","CADU","Virtual","Biblioteca digital","Santa Catarina",None, None,"Octavio Castillo")
+unideh.aprender()
+unideh.estudia()
+unideh.capacitar()
+unideh.educar()
+unideh.contratar()
