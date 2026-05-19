@@ -18,10 +18,10 @@ class Silla:
         print(f"El tamaño es: {self.tamaño}")
         print(f"El asiento es: {self.asiento}")
         print(f"El respaldo es: {self.respaldo}")
-        print(f"Comodidad : {self.comodidad}")
-        print(f"Material : {self.material}")
-        print(f"La cantidad de patas : {self.cantidad_patas}")
-        print(f"Marca : {self.marca}")
+        print(f"Comodidad: {self.comodidad}")
+        print(f"Material: {self.material}")
+        print(f"La cantidad de patas: {self.cantidad_patas}")
+        print(f"Marca: {self.marca}")
         print(f"El precio es: {self.precio}")
 
     def sentarse(self):
