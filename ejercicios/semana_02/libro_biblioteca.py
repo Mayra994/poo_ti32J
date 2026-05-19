@@ -22,4 +22,24 @@ class LibroBiblioteca:
         print(f"Personajes:{self.personajes}")
         print(f"Editorial:{self.editorial}")
 
+    def leer(self):
+        print("Leer un libro")
+
+    def imaginar(self):
+        print("Imaginar la situación")
+
+    def aprender(self):
+        print("Aprender algo que te ayude")
+
+    def coleccionar(self):
+        print("Ordena el libro en orden")
+         
+    def reflexionar(self):
+        print("Enfocate en lo que esta sucediendo") 
+
 al_final_mueren_los_dos = LibroBiblioteca("portada.jpg","Blanda","352","335,00","Novela juvenil","Para los que estan perdidos","Adam Silvera","Sans-serif","Mateo Torrez Rufus Emeterio","Puck")
+al_final_mueren_los_dos.leer()
+al_final_mueren_los_dos.imaginar()
+al_final_mueren_los_dos.aprender()
+al_final_mueren_los_dos.coleccionar()
+al_final_mueren_los_dos.reflexionar()

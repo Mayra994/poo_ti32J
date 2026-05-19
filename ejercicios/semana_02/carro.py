@@ -24,4 +24,24 @@ class Carro:
         print("Motor:", self.motor)
         print("Pantallas:", self.pantallas)
 
+    def encenderPantalla(self):
+        print("Encender pantalla y poner música")
+    
+    def ajustarAsientos(self):
+        print("Mejorar la comodidad")
+    
+    def escucharMusica(self):
+        print("Conectar tu celular a la pantalla")
+    
+    def frenar(self):
+        print("Frenar a tiempo")
+    
+    def activarLuces(self):
+        print("Mejorar la visibilidad")
+
 mini_cooper = Carro("Cristales tintados","Asientos deportivos","Aislamiento acustico","Asistente de conduccion y bolsas de aire","Frenos de disco ventilados","Techo panoramico doble","Ventanas sin marco","Direccion asistida","TwinPower turbo de 2.0 litros","Interfaz circular OLED tactil")
+mini_cooper.encenderPantalla()
+mini_cooper.ajustarAsientos()
+mini_cooper.escucharMusica()
+mini_cooper.frenar()
+mini_cooper.activarLuces()
