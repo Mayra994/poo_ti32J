@@ -24,4 +24,24 @@ class Transporte:
         print(f"Confiabilidad: {self.confiabilidad}")
         print(f"Mantenimiento necesario: {self.mantenimiento}")
 
+    def viajar(self):
+        print("Puedes viajar seguro")
+
+    def acelerar(self):
+        print("Iremos más rapido")
+
+    def girar(self):
+        print("Daremos vuelta a la izquierda o derecha")
+
+    def encenderMotor(self):
+        print("Comenzaremos a avanzar")
+
+    def subirPasajeros(self):
+        print("Suban y bajen con cuidado")
+
 autobus = Transporte("6","Panoramicas","Hidraulicas","Diesel euro VI","12.00 MXN","Rampa y espacio para perro guia","Boton de panico","45 pasajeros","Cada ciertos minutos","Verificacion ambiental semestral")
+autobus.viajar()
+autobus.acelerar()
+autobus.girar()
+autobus.encenderMotor()
+autobus.subirPasajeros()  
