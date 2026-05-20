@@ -13,3 +13,6 @@ class Calculadora:
     
 casio_9850 = Calculadora()
 casio_9850.suma(10,15.5)
+
+casio_9850.sumar(10,15.5)
+casio_9850.sumaEnteros(10,10.5)

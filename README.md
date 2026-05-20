@@ -16,7 +16,7 @@ __pycache__/
 Indexa todos los directorios y carpetas en busca de archivos en busca de documentos nuevos.
 
 ````shell
-git add.
+git add .
 ````
 
 ## 3. Crear un COMMIT 
@@ -38,4 +38,9 @@ Sincroniza los cambios realizados en el repositorio.
 ````shell
 git push -u origin main 
 ````
+
+
+## 5. Agregar Documentación a los métodos 
+
+Agregar un **Docstring** a los métodos generados
 
