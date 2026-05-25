@@ -527,8 +527,8 @@
       "type": "text",
       "x": 313.6000061035156,
       "y": 191.40000915527344,
-      "width": 171.21986389160156,
-      "height": 250,
+      "width": 175.75987243652344,
+      "height": 275,
       "angle": 0,
       "strokeColor": "#e03131",
       "backgroundColor": "#fff5f5",
@@ -542,8 +542,8 @@
       "index": "aA",
       "roundness": null,
       "seed": 1300863456,
-      "version": 106,
-      "versionNonce": 186224886,
+      "version": 130,
+      "versionNonce": 2054771917,
       "isDeleted": false,
       "boundElements": [
         {
@@ -551,16 +551,16 @@
           "type": "arrow"
         }
       ],
-      "updated": 1779571092373,
+      "updated": 1779715763170,
       "link": null,
       "locked": false,
-      "text": "Rastrear registro\nde aspirantes\n\nCarreras\n\nOtorgar \ncontraseñas\n\nActivar pago\na aspirantes",
+      "text": "Rastrear registro\nde aspirantes\n\nRevisar nombre de\ncarreras\n\nOtorgar \ncontraseñas\n\nActivar pago\na aspirantes",
       "fontSize": 20,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "Rastrear registro\nde aspirantes\n\nCarreras\n\nOtorgar \ncontraseñas\n\nActivar pago\na aspirantes",
+      "originalText": "Rastrear registro\nde aspirantes\n\nRevisar nombre de\ncarreras\n\nOtorgar \ncontraseñas\n\nActivar pago\na aspirantes",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -570,7 +570,7 @@
       "x": 221.6000213623047,
       "y": 223.4000244140625,
       "width": 67.99998474121094,
-      "height": 15.999969482421875,
+      "height": 15.356622788881879,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#fff5f5",
@@ -586,11 +586,11 @@
         "type": 2
       },
       "seed": 597053472,
-      "version": 147,
-      "versionNonce": 785762784,
+      "version": 171,
+      "versionNonce": 1064252205,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1779570125663,
+      "updated": 1779715763170,
       "link": null,
       "locked": false,
       "points": [
@@ -600,7 +600,7 @@
         ],
         [
           67.99998474121094,
-          -15.999969482421875
+          -15.356622788881879
         ]
       ],
       "lastCommittedPoint": null,
